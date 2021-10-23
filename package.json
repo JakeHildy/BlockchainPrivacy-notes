@@ -1,0 +1,25 @@
+{
+  "name": "BlockchainPrivacy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeHildy/BlockchainPrivacy-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeHildy/BlockchainPrivacy-notes/issues"
+  },
+  "homepage": "https://github.com/JakeHildy/BlockchainPrivacy-notes#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "js-sha256": "^0.9.0",
+    "merkletreejs": "^0.2.24"
+  }
+}
